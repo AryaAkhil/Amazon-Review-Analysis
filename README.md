@@ -7,7 +7,7 @@ Furthermore, it tries to measure percentage of positive, negative and neutral se
 The jupyter notebook attached with this project doesn't covers the textual data cleaning as I have covered that comprehensively as part of a separate project that can be found on profile in the name of - "Sentiment Analysis on Twitter Data". 
 Rather, user will be able to use the notebook to directly perform sentiment analysis on cleaned data.
 
-* ## Data Source
+## Data Source
 The data was extracted using existing APIs and ASIN numbers as pickle file then converted to separate csv files. 
 Since, I have not covered data cleaning in this project. I have uploaded both raw and processed files for each of the 3 product lines in the attached Data.rar file.
 User can directly use the "...processed" files to run the notebook.
