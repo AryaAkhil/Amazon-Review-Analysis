@@ -1,5 +1,14 @@
 ## Summary
 
+### Keywords: 
+Amazon reviews, Sentiment Analysis.
+
+### Language:
+Python (Jupyter Notebook)
+
+### Major Packages: 
+pandas, textblob, nltk, vader
+
 ### Overview
 This project aims to analyse sentiments of Amazon reviewers against 50 products in each of following 3 product lines - phones, consoles and cameras betweenn 2006 and 2018.
 Furthermore, it tries to measure percentage of positive, negative and neutral sentiments against specific features and showcase it as a Tableau dashboard - 
