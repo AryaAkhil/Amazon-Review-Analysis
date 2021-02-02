@@ -12,4 +12,5 @@ The data was extracted using existing APIs and ASIN numbers as pickle file then 
 Since, I have not covered data cleaning in this project. I have uploaded both raw and processed files for each of the 3 product lines in the attached Data.rar file.
 User can directly use the "...processed" files to run the notebook.
 
-
+### Credits:
+A slightly different version of this project was done by me during my master's in business analytics degree at Singapore Management University batch of 2020.
